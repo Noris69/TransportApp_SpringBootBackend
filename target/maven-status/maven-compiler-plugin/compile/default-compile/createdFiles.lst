@@ -1,9 +1,7 @@
 com\transport\dto\LoginRequest.class
-com\transport\controller\TransportRequestController.class
 com\transport\controller\AuthController.class
 com\transport\model\TransportRequest.class
 com\transport\service\LocationService.class
-com\transport\dto\ChatMessage.class
 com\transport\model\UserRole.class
 com\transport\service\ChatService.class
 com\transport\service\TransportRequestService.class
@@ -20,6 +18,5 @@ com\transport\service\JwtService.class
 com\transport\dto\LocationUpdateRequest.class
 com\transport\controller\ChatController.class
 com\transport\service\CustomUserDetailsService.class
-com\transport\dto\ChatMessage$MessageType.class
 com\transport\repository\UserRepository.class
 com\transport\repository\TransportRequestRepository.class

@@ -1,0 +1,7 @@
+com\transport\controller\BuyerOfferControllerTest.class
+com\transport\controller\ChatControllerTest.class
+com\transport\controller\SellerOfferControllerTest.class
+com\transport\controller\UserControllerTest.class
+com\transport\controller\AuthControllerTest.class
+com\transport\controller\UserLocationControllerTest.class
+com\transport\controller\LocationControllerTest.class
